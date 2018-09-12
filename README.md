@@ -9,7 +9,7 @@ Data is available to download [here](https://drive.google.com/drive/folders/1EgD
 
 Install the necessary dependencies using conda.  
 
-'''
+```
 conda create -n geolink --file requirements.txt
-'''
+```
 
